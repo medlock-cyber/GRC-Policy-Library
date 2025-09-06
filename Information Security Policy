@@ -1,0 +1,49 @@
+The Information Security Policy ia the backbone of the whole library. This is usually Policy #1 because everything else (standards, procedures, guidelines) flows down from it. Here's what it could posibly look like:
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+🛡️ Information Security Policy
+
+## 1. Purpose
+The purpose of this policy is to establish the organization’s commitment to protecting information assets against unauthorized access, disclosure, alteration, and destruction. This policy ensures the confidentiality, integrity, and availability of data.
+
+---
+
+## 2. Scope
+This policy applies to:
+- All employees, contractors, and third parties.  
+- All systems, applications, networks, and devices owned or managed by the organization.  
+- All data, whether stored, processed, or transmitted.  
+
+---
+
+## 3. Policy Statement
+- Information security is a shared responsibility across the organization.  
+- Access to information will be granted based on business need, least privilege, and role-based requirements.  
+- Security controls will align with industry standards, regulations, and contractual obligations.  
+- All employees must immediately report suspected security incidents or breaches.  
+- Data must be classified and protected according to its sensitivity.  
+
+---
+
+## 4. Responsibilities
+- **Executive Leadership** → Approves this policy and ensures adequate resources.  
+- **IT & Security Teams** → Implement, monitor, and enforce security controls.  
+- **Employees & Contractors** → Comply with this policy, complete training, and report incidents.  
+
+---
+
+## 5. Compliance
+- Failure to comply with this policy may result in disciplinary action, up to and including termination of employment or contract.  
+- Periodic audits, assessments, and security reviews will verify compliance.  
+
+---
+
+## 6. References
+This policy aligns with:  
+- **NIST Cybersecurity Framework (CSF)**  
+- **NIST SP 800-53**  
+- **ISO/IEC 27001**  
+- **CIS Critical Security Controls**  
+
+---
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
