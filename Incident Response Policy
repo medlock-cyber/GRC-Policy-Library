@@ -1,0 +1,46 @@
+# 🚨 Incident Response Policy
+
+## 1. Purpose
+The purpose of this policy is to establish a structured approach for identifying, responding to, and recovering from security incidents. The goal is to minimize the impact of incidents on business operations, data, and reputation.
+
+---
+
+## 2. Scope
+This policy applies to:  
+- All employees, contractors, vendors, and third parties with access to organizational systems or data.  
+- All information systems, applications, and networks owned or managed by the organization.  
+- All types of security incidents, including but not limited to malware infections, unauthorized access, data breaches, denial-of-service attacks, and insider threats.  
+
+---
+
+## 3. Policy Statement
+- All security incidents must be reported immediately to the Security Team.  
+- The organization will maintain an **Incident Response Plan (IRP)** that defines roles, responsibilities, communication protocols, and response procedures.  
+- Incidents will be classified by severity and prioritized for response based on business impact.  
+- Evidence must be preserved and documented for forensic analysis and regulatory reporting, if required.  
+- Post-incident reviews will be conducted to identify lessons learned and improve defenses.  
+
+---
+
+## 4. Responsibilities
+- **Employees & Contractors** → Report suspected or actual security incidents immediately.  
+- **IT & Security Teams** → Detect, contain, eradicate, and recover from incidents. Maintain documentation throughout the process.  
+- **Executive Leadership** → Provide oversight, allocate resources, and make decisions regarding legal/regulatory disclosure.  
+- **Incident Response Coordinator** → Lead and coordinate incident response efforts across teams.  
+
+---
+
+## 5. Compliance
+- Failure to report or properly handle incidents may result in disciplinary action, up to and including termination of employment or contract.  
+- Regulatory obligations (e.g., GDPR, HIPAA, PCI DSS) require timely reporting of certain incidents to authorities or affected individuals.  
+
+---
+
+## 6. References
+This policy aligns with:  
+- **NIST SP 800-61 – Computer Security Incident Handling Guide**  
+- **NIST Cybersecurity Framework (CSF): Respond & Recover Functions**  
+- **ISO/IEC 27035 – Information Security Incident Management**  
+- **CIS Control 17 – Incident Response Management**  
+
+---
