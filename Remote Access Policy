@@ -1,0 +1,48 @@
+# 🌐 Remote Access Policy
+
+## 1. Purpose
+The purpose of this policy is to define requirements for securely connecting to the organization’s internal systems and resources from remote locations. Proper controls help prevent unauthorized access and protect sensitive data.
+
+---
+
+## 2. Scope
+This policy applies to:  
+- All employees, contractors, and third parties requiring remote access.  
+- All systems, networks, and devices used to remotely connect to the organization.  
+- All data accessed, transmitted, or stored during remote sessions.  
+
+---
+
+## 3. Policy Statement
+- Remote access must be approved by management and limited to legitimate business needs.  
+- **Multi-Factor Authentication (MFA)** is required for all remote connections.  
+- All remote connections must use secure methods such as **VPN (IPSec or SSL)** or equivalent encrypted channels.  
+- Devices connecting remotely must meet security requirements, including up-to-date patches, antivirus, and endpoint protection.  
+- Split tunneling is prohibited unless specifically approved and documented.  
+- Remote sessions must automatically disconnect after a defined period of inactivity.  
+- Access must be logged, monitored, and reviewed regularly.  
+- Public Wi-Fi use requires additional safeguards (e.g., VPN, encrypted hotspot).  
+
+---
+
+## 4. Responsibilities
+- **Executive Leadership** → Approves policy and allocates resources for secure remote access.  
+- **IT & Security Teams** → Implement and monitor VPNs, MFA, and endpoint compliance.  
+- **Employees & Contractors** → Use only authorized methods for remote access and comply with device security requirements.  
+
+---
+
+## 5. Compliance
+- Failure to comply with this policy may result in loss of remote access privileges, disciplinary action, or termination.  
+- Remote access systems will be audited and monitored regularly for compliance.  
+
+---
+
+## 6. References
+This policy aligns with:  
+- **NIST SP 800-46 – Guide to Enterprise Telework, Remote Access, and Bring Your Own Device (BYOD) Security**  
+- **NIST SP 800-53 – AC-17 (Remote Access)**  
+- **ISO/IEC 27033 – Network Security**  
+- **CIS Control 12 – Network Infrastructure Management**  
+
+---
