@@ -1,0 +1,46 @@
+# 🤝 Vendor Risk Management Policy
+
+## 1. Purpose
+The purpose of this policy is to establish requirements for identifying, assessing, and managing risks associated with third-party vendors, suppliers, and service providers. The goal is to ensure that vendors handling organizational data or providing critical services maintain appropriate security and compliance practices.
+
+---
+
+## 2. Scope
+This policy applies to:  
+- All vendors, contractors, consultants, service providers, and partners who access organizational systems, networks, facilities, or data.  
+- All business units engaging or managing vendors.  
+
+---
+
+## 3. Policy Statement
+- All vendors must undergo a risk assessment prior to engagement.  
+- Vendors must sign contracts or agreements that include security, confidentiality, and compliance requirements.  
+- Vendors with access to sensitive data must adhere to the organization’s security policies and standards.  
+- Ongoing monitoring and periodic reviews must be conducted for critical or high-risk vendors.  
+- Vendors must notify the organization of any security incident, data breach, or compliance violation that could impact services or data.  
+- The organization reserves the right to audit vendor compliance with contractual security requirements.  
+
+---
+
+## 4. Responsibilities
+- **Procurement & Business Units** → Ensure vendors are vetted and contractual security clauses are included.  
+- **IT & Security Teams** → Perform security risk assessments and monitor vendor compliance.  
+- **Vendor Managers** → Maintain ongoing communication and review vendor performance.  
+- **Vendors** → Comply with contractual and security requirements.  
+
+---
+
+## 5. Compliance
+- Vendors failing to meet requirements may face contract termination, financial penalties, or legal action.  
+- Internal teams failing to follow vendor risk processes may face disciplinary action.  
+
+---
+
+## 6. References
+This policy aligns with:  
+- **NIST SP 800-171 – Protecting Controlled Unclassified Information in Nonfederal Systems**  
+- **NIST SP 800-161 – Supply Chain Risk Management Practices**  
+- **ISO/IEC 27036 – Information Security for Supplier Relationships**  
+- **CIS Control 15 – Service Provider Management**  
+
+---
