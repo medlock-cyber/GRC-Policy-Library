@@ -1,0 +1,48 @@
+# 🔐 Encryption Policy
+
+## 1. Purpose
+The purpose of this policy is to define requirements for the use of encryption to protect sensitive information from unauthorized access, disclosure, or alteration. Encryption ensures data confidentiality, integrity, and compliance with applicable laws and standards.
+
+---
+
+## 2. Scope
+This policy applies to:  
+- All employees, contractors, and third parties using organizational systems.  
+- All sensitive or regulated data, including but not limited to personally identifiable information (PII), financial data, health information, and intellectual property.  
+- All systems, networks, applications, and devices that store, process, or transmit sensitive data.  
+
+---
+
+## 3. Policy Statement
+- All **Confidential** and **Restricted** data must be encrypted at rest and in transit.  
+- Approved cryptographic standards must be used (e.g., **AES-256**, **RSA-2048 or higher**, **SHA-256**).  
+- Transport Layer Security (TLS) v1.2 or higher must be used for data in transit.  
+- Encryption keys must be securely generated, stored, rotated, and retired according to key management procedures.  
+- End-user devices (laptops, mobile devices, removable media) must use full-disk encryption.  
+- Cloud services must use provider-supported encryption mechanisms with organization-managed keys where possible.  
+- Weak or deprecated algorithms (e.g., MD5, SHA-1, DES, RC4) are strictly prohibited.  
+
+---
+
+## 4. Responsibilities
+- **Executive Leadership** → Approves this policy and provides resources for implementation.  
+- **IT & Security Teams** → Implement and monitor encryption technologies, maintain key management systems.  
+- **Employees & Contractors** → Ensure encrypted tools and services are used properly when handling sensitive data.  
+
+---
+
+## 5. Compliance
+- Failure to comply with this policy may result in disciplinary action, termination, or legal consequences.  
+- Encryption practices will be reviewed as part of regular audits, vulnerability assessments, and compliance checks.  
+
+---
+
+## 6. References
+This policy aligns with:  
+- **NIST SP 800-57 – Key Management Guidelines**  
+- **NIST SP 800-111 – Guide to Storage Encryption Technologies**  
+- **ISO/IEC 27001 & 27018**  
+- **PCI DSS Requirement 3 – Protect Stored Data**  
+- **HIPAA Security Rule §164.312**  
+
+---
