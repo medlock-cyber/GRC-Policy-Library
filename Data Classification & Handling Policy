@@ -1,0 +1,51 @@
+# 🗂️ Data Classification & Handling Policy
+
+## 1. Purpose
+The purpose of this policy is to establish a framework for classifying, labeling, and handling organizational data according to its sensitivity, value, and regulatory requirements. Proper classification ensures data is adequately protected throughout its lifecycle.
+
+---
+
+## 2. Scope
+This policy applies to:  
+- All employees, contractors, and third parties with access to organizational data.  
+- All forms of data (electronic, paper, verbal).  
+- All systems, applications, and services that store, process, or transmit data.  
+
+---
+
+## 3. Policy Statement
+- Data must be classified into categories based on sensitivity and impact if compromised.  
+- The organization will use the following standard classifications:  
+  - **Public** → Data approved for public release.  
+  - **Internal** → Non-public data used within the organization.  
+  - **Confidential** → Sensitive business data requiring restricted access.  
+  - **Restricted** → Highly sensitive data (e.g., financial, personal, regulated).  
+- Each classification level has corresponding security controls, including storage, transmission, and destruction requirements.  
+- Employees must handle and label data according to its classification level.  
+- Confidential and Restricted data must be encrypted in transit and at rest.  
+- Data must be securely disposed of when no longer required.  
+
+---
+
+## 4. Responsibilities
+- **Executive Leadership** → Approves this policy and ensures resources for data protection.  
+- **Data Owners** → Assign classification levels and approve access.  
+- **IT & Security Teams** → Implement technical controls for storage, transmission, and disposal.  
+- **Employees & Contractors** → Follow classification rules and protect data accordingly.  
+
+---
+
+## 5. Compliance
+- Failure to follow this policy may result in disciplinary action, termination, or legal consequences.  
+- Regular audits and monitoring will ensure compliance with classification and handling requirements.  
+
+---
+
+## 6. References
+This policy aligns with:  
+- **NIST SP 800-60 – Guide for Mapping Types of Information and Information Systems**  
+- **ISO/IEC 27001 & 27002**  
+- **CIS Control 3 – Data Protection**  
+- **NIST Cybersecurity Framework (CSF): Protect Function**  
+
+---
