@@ -1,0 +1,47 @@
+# 🔄 Business Continuity Policy
+
+## 1. Purpose
+The purpose of this policy is to establish a framework that ensures critical business operations can continue with minimal disruption in the event of a disaster, cyberattack, system failure, or other significant incident.
+
+---
+
+## 2. Scope
+This policy applies to:  
+- All business units, employees, contractors, and third parties supporting critical functions.  
+- All systems, applications, and services essential to organizational operations.  
+- Both planned disruptions (e.g., maintenance) and unplanned disruptions (e.g., outages, disasters).  
+
+---
+
+## 3. Policy Statement
+- The organization will maintain a **Business Continuity Plan (BCP)** that identifies critical functions, dependencies, and recovery priorities.  
+- Business Impact Analyses (BIAs) must be conducted to determine Recovery Time Objectives (RTOs) and Recovery Point Objectives (RPOs).  
+- Critical systems and data must be backed up and tested regularly.  
+- Redundant systems, alternate sites, and failover capabilities must be implemented where necessary.  
+- Business continuity testing (e.g., tabletop exercises, failover drills) must be conducted at least annually.  
+- Employees must be trained on their roles and responsibilities during disruptions.  
+
+---
+
+## 4. Responsibilities
+- **Executive Leadership** → Approves the BCP and allocates resources for continuity measures.  
+- **Business Continuity Team** → Develops, maintains, and tests continuity plans.  
+- **IT & Security Teams** → Ensure technical resilience, backup systems, and disaster recovery capabilities.  
+- **Employees** → Follow continuity procedures and participate in training and exercises.  
+
+---
+
+## 5. Compliance
+- Non-compliance with this policy may result in disciplinary action, up to and including termination of employment or contract.  
+- Business continuity and disaster recovery capabilities may be subject to audit, regulatory review, or contractual obligations.  
+
+---
+
+## 6. References
+This policy aligns with:  
+- **NIST SP 800-34 – Contingency Planning Guide for Information Systems**  
+- **ISO/IEC 22301 – Business Continuity Management Systems**  
+- **NIST Cybersecurity Framework (CSF): Recover Function**  
+- **CIS Control 11 – Data Recovery**  
+
+---
