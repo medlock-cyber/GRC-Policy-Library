@@ -1,0 +1,47 @@
+# 🔑 Access Control Policy
+
+## 1. Purpose
+The purpose of this policy is to ensure that access to organizational systems, applications, and data is granted and managed securely, based on the principles of least privilege, need-to-know, and separation of duties. This minimizes the risk of unauthorized access and data breaches.
+
+---
+
+## 2. Scope
+This policy applies to:  
+- All employees, contractors, vendors, and third parties accessing organizational systems or data.  
+- All physical and digital assets, including networks, applications, databases, devices, and facilities.  
+
+---
+
+## 3. Policy Statement
+- Access must be authorized by management and provisioned by IT/security teams.  
+- Access will be granted based on role-based access control (RBAC), ensuring users only have the access necessary for their job responsibilities.  
+- Privileged accounts (e.g., administrators) must be tightly controlled, monitored, and reviewed regularly.  
+- Multi-factor authentication (MFA) must be used for access to sensitive systems and data.  
+- Terminated employees or contractors must have access revoked immediately.  
+- Periodic access reviews will be conducted to verify appropriateness of permissions.  
+- Shared or generic accounts are prohibited, except in approved operational cases with additional monitoring.  
+
+---
+
+## 4. Responsibilities
+- **Managers & Data Owners** → Approve access requests and ensure appropriateness of access rights.  
+- **IT & Security Teams** → Provision, manage, monitor, and revoke access as required.  
+- **Employees & Contractors** → Use only authorized accounts and protect credentials.  
+- **Internal Audit / Compliance** → Conduct periodic access reviews and report gaps.  
+
+---
+
+## 5. Compliance
+- Non-compliance with this policy may result in disciplinary action, up to and including termination of employment or contract.  
+- Regulatory frameworks (e.g., SOX, HIPAA, GDPR, PCI DSS) require strict access control management and documentation.  
+
+---
+
+## 6. References
+This policy aligns with:  
+- **NIST SP 800-53 (AC Family – Access Control)**  
+- **ISO/IEC 27001 – Annex A.9 (Access Control)**  
+- **CIS Control 6 – Access Control Management**  
+- **NIST Cybersecurity Framework (CSF): Protect Function (PR.AC)**  
+
+---
