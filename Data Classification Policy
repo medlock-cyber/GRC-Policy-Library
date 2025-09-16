@@ -1,0 +1,50 @@
+# 🗂️ Data Classification Policy
+
+## 1. Purpose
+The purpose of this policy is to establish a framework for classifying, handling, and protecting organizational data according to its sensitivity, value, and regulatory requirements. Proper classification ensures that data receives an appropriate level of security and protection.
+
+---
+
+## 2. Scope
+This policy applies to:  
+- All employees, contractors, vendors, and third parties with access to organizational data.  
+- All data created, stored, processed, or transmitted on company-owned or managed systems.  
+- Both electronic and physical data formats.  
+
+---
+
+## 3. Policy Statement
+- All data must be classified into one of the following categories:  
+  1. **Public** → Approved for general release with no impact to the organization if disclosed.  
+  2. **Internal** → Intended for business use only; unauthorized disclosure could have minor impact.  
+  3. **Confidential** → Sensitive data requiring protection; unauthorized disclosure could cause significant harm.  
+  4. **Restricted** → Highly sensitive data (e.g., PII, PHI, financial records, trade secrets); unauthorized disclosure could cause severe damage or regulatory penalties.  
+
+- Data owners are responsible for assigning classifications to the data they create or manage.  
+- Employees and contractors must handle data according to its classification.  
+- Confidential and Restricted data must be encrypted in transit and at rest.  
+- Data must not be stored, transmitted, or shared outside approved systems and processes.  
+
+---
+
+## 4. Responsibilities
+- **Data Owners** → Classify data and ensure proper handling.  
+- **IT & Security Teams** → Implement technical controls (e.g., encryption, access restrictions).  
+- **Employees & Contractors** → Follow classification requirements when creating, storing, or sharing data.  
+
+---
+
+## 5. Compliance
+- Failure to properly classify and protect data may result in disciplinary action, up to and including termination of employment or contract.  
+- Regulatory or legal violations may lead to fines, penalties, or legal action.  
+
+---
+
+## 6. References
+This policy aligns with:  
+- **NIST SP 800-60 – Guide for Mapping Types of Information**  
+- **ISO/IEC 27001 & 27002 – Information Classification**  
+- **CIS Control 3 – Data Protection**  
+- **GDPR / HIPAA / PCI DSS** (if applicable to the organization)  
+
+---
